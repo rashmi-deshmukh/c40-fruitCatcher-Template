@@ -56,7 +56,8 @@ class Game{
                      players[index - 1].y = y;
                        
                      if(index === player.index){
-                         
+                        fill("red") 
+                        textSize(20)
                        //add code to display the player's name on the respective basket.
                         
                          
