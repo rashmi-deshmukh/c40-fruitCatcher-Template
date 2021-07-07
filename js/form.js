@@ -45,7 +45,11 @@ class Form{
         });
 
         this.reset.mousePressed(() => {
-            //add code to reset the values of the gameState and the playerCount nodes to 0 in the database
+           //make the gameState & playerCount nodes to 0 in the database
+            
+
+           //remove the player from the database
+            
             
         });
 
